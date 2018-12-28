@@ -1,4 +1,6 @@
-﻿# `tempfile2`
+﻿[![Build status](https://ci.appveyor.com/api/projects/status/qt40clxeegnqi6ex?svg=true)](https://ci.appveyor.com/project/excitoon/tempfile2)
+
+# `tempfile2`
 
 `tempfile` wrapper with slightly more convenient interface.
 
