@@ -3,7 +3,7 @@ import setuptools
 
 setuptools.setup(
     name = 'tempfile2',
-    version = '0.1.1',
+    version = '0.1.2',
     description = '`tempfile` wrapper',
     long_description = '`tempfile` wrapper with slightly more convenient interface.',
     url = 'https://github.com/excitoon/tempfile2',
